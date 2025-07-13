@@ -1,4 +1,4 @@
-# Age Classifier 🧠📷
+# Age Classifier 
 
 ## About
 **Age Classifier** is a smart image analysis tool that automatically classifies people in images into two categories:
